@@ -6,19 +6,26 @@ und kreisfreien Städte in Nordrhein-Westfalen.
 **Quelle:** [DWD Open Data](https://opendata.dwd.de/climate_environment/health/alerts/)  
 **Stand:** 2026-03-25 07:30 Uhr  
 **Prognose ab:** 2026-03-25  
-**Zuletzt generiert:** 25.03.2026 09:51 UTC
+**Zuletzt generiert:** 25.03.2026 10:13 UTC
 
 > Die Zuordnung erfolgt über die jeweils nächste DWD-Messstation.
 > JSON-Daten: [`data/uvi_nrw.json`](data/uvi_nrw.json)
 
 ## Legende
 
-| Symbol | UV-Index | Gefährdung |
-|--------|----------|------------|
-| 🟢 | 1–2 | gering |
-| 🟡 | 3–5 | mäßig |
-| 🟠 | 6–7 | hoch |
-| 🔴 | 8–10 | sehr hoch / extrem |
+| UV-Index | Gefährdung | Farbe |
+|:---:|---|---|
+| 🟢 1 | gering | ![#339C23](https://placehold.co/12x12/339C23/339C23.png) |
+| 🟢 2 | gering | ![#9CC401](https://placehold.co/12x12/9CC401/9CC401.png) |
+| 🟡 3 | mäßig | ![#FFF200](https://placehold.co/12x12/FFF200/FFF200.png) |
+| 🟡 4 | mäßig | ![#FED300](https://placehold.co/12x12/FED300/FED300.png) |
+| 🟡 5 | mäßig | ![#F7AF00](https://placehold.co/12x12/F7AF00/F7AF00.png) |
+| 🟠 6 | hoch | ![#EF8300](https://placehold.co/12x12/EF8300/EF8300.png) |
+| 🟠 7 | hoch | ![#EA6003](https://placehold.co/12x12/EA6003/EA6003.png) |
+| 🔴 8 | sehr hoch | ![#D90017](https://placehold.co/12x12/D90017/D90017.png) |
+| 🔴 9 | sehr hoch | ![#FF009A](https://placehold.co/12x12/FF009A/FF009A.png) |
+| 🔴 10 | sehr hoch | ![#B64BFF](https://placehold.co/12x12/B64BFF/B64BFF.png) |
+| 🟣 11+ | extrem | ![#9A8DFF](https://placehold.co/12x12/9A8DFF/9A8DFF.png) |
 
 ## UV-Index nach Landkreis
 
