@@ -1,2 +1,82 @@
-# dwd-uvi-nrw
-DWD UV-Index NRW – GitHub Automation
+# UV-Gefahrenindex NRW
+
+Automatisch aktualisierte Übersicht des UV-Gefahrenindex für alle 53 Landkreise
+und kreisfreien Städte in Nordrhein-Westfalen.
+
+**Quelle:** [DWD Open Data](https://opendata.dwd.de/climate_environment/health/alerts/)  
+**Stand:** 2026-03-25 07:30 Uhr  
+**Prognose ab:** 2026-03-25  
+**Zuletzt generiert:** 25.03.2026 09:51 UTC
+
+> Die Zuordnung erfolgt über die jeweils nächste DWD-Messstation.
+> JSON-Daten: [`data/uvi_nrw.json`](data/uvi_nrw.json)
+
+## Legende
+
+| Symbol | UV-Index | Gefährdung |
+|--------|----------|------------|
+| 🟢 | 1–2 | gering |
+| 🟡 | 3–5 | mäßig |
+| 🟠 | 6–7 | hoch |
+| 🔴 | 8–10 | sehr hoch / extrem |
+
+## UV-Index nach Landkreis
+
+| Landkreis / Stadt | DWD-Station | Heute (Wed 25.03.) | Morgen (Thu 26.03.) | Übermorgen (Fri 27.03.) |
+|---|---|:---:|:---:|:---:|
+| Aachen (Stadt) | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Bielefeld | Osnabrück | 🟢 1 | 🟢 2 | 🟡 3 |
+| Bochum | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Bonn (Stadt) | Bonn | 🟢 2 | 🟢 2 | 🟡 3 |
+| Borken | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Bottrop | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Coesfeld | Osnabrück | 🟢 1 | 🟢 2 | 🟡 3 |
+| Dortmund | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Duisburg | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Düren | Bonn | 🟢 2 | 🟢 2 | 🟡 3 |
+| Düsseldorf (Stadt) | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Ennepe-Ruhr-Kreis | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Essen | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Euskirchen | Bonn | 🟢 2 | 🟢 2 | 🟡 3 |
+| Gelsenkirchen | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Gütersloh | Osnabrück | 🟢 1 | 🟢 2 | 🟡 3 |
+| Hagen | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Hamm | Osnabrück | 🟢 1 | 🟢 2 | 🟡 3 |
+| Heinsberg | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Herford | Osnabrück | 🟢 1 | 🟢 2 | 🟡 3 |
+| Herne | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Hochsauerlandkreis | Kahler Asten | 🟢 2 | 🟢 2 | 🟡 3 |
+| Höxter | Kassel | 🟢 2 | 🟢 2 | 🟡 3 |
+| Kleve | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Krefeld | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Köln (Stadt) | Bonn | 🟢 2 | 🟢 2 | 🟡 3 |
+| Leverkusen | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Lippe | Kassel | 🟢 2 | 🟢 2 | 🟡 3 |
+| Mettmann | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Minden-Lübbecke | Hannover | 🟢 2 | 🟢 1 | 🟡 3 |
+| Märkischer Kreis | Kahler Asten | 🟢 2 | 🟢 2 | 🟡 3 |
+| Mönchengladbach | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Mülheim an der Ruhr | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Münster | Osnabrück | 🟢 1 | 🟢 2 | 🟡 3 |
+| Oberbergischer Kreis | Bonn | 🟢 2 | 🟢 2 | 🟡 3 |
+| Oberhausen | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Olpe | Kahler Asten | 🟢 2 | 🟢 2 | 🟡 3 |
+| Paderborn | Kahler Asten | 🟢 2 | 🟢 2 | 🟡 3 |
+| Recklinghausen | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Remscheid | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Rhein-Erft-Kreis | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Rhein-Kreis Neuss | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Rhein-Sieg-Kreis | Bonn | 🟢 2 | 🟢 2 | 🟡 3 |
+| Rheinisch-Bergischer Kreis | Bonn | 🟢 2 | 🟢 2 | 🟡 3 |
+| Siegen-Wittgenstein | Kahler Asten | 🟢 2 | 🟢 2 | 🟡 3 |
+| Soest | Kahler Asten | 🟢 2 | 🟢 2 | 🟡 3 |
+| Solingen | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Steinfurt | Osnabrück | 🟢 1 | 🟢 2 | 🟡 3 |
+| Unna | Kahler Asten | 🟢 2 | 🟢 2 | 🟡 3 |
+| Viersen | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Warendorf | Osnabrück | 🟢 1 | 🟢 2 | 🟡 3 |
+| Wesel | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+| Wuppertal | Düsseldorf | 🟢 1 | 🟢 2 | 🟡 3 |
+
+---
+*Dieses Repository wird täglich automatisch durch einen [GitHub Actions Workflow](.github/workflows/update.yml) aktualisiert.*
