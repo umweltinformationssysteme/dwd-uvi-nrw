@@ -2,22 +2,22 @@ name: UV-Index NRW aktualisieren
 
 on:
   schedule:
-    - cron: "30 8 * * *"
-  workflow_dispatch:
+    - cron: "0 9 * * *"    # täglich um 09:00 UTC (= 10:00 / 11:00 MEZ/MESZ)
+  workflow_dispatch:         # manueller Start über GitHub UI jederzeit möglich
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
+      contents: write        # Erlaubt dem Workflow, Dateien ins Repo zu committen
 
     steps:
       - name: Repository auschecken
-        uses: actions/checkout@v5        # ← v4 → v5 (Node 24)
+        uses: actions/checkout@v4
 
       - name: Python einrichten
-        uses: actions/setup-python@v5   # ← bleibt v5, bereits Node 24
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
