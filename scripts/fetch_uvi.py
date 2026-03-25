@@ -94,32 +94,30 @@ def nearest_station(district, uv_lookup):
     return best_name, round(best_dist)
 
 
-def uv_label(val):
-    if val is None:
-        return "–"
-    if val <= 2:
-        return "gering"
-    if val <= 5:
-        return "mäßig"
-    if val <= 7:
-        return "hoch"
-    if val <= 9:
-        return "sehr hoch"
-    return "extrem"
+UV_META = {
+    1:  {"label": "gering",     "color": "#339C23", "emoji": "🟢"},
+    2:  {"label": "gering",     "color": "#9CC401", "emoji": "🟢"},
+    3:  {"label": "mäßig",      "color": "#FFF200", "emoji": "🟡"},
+    4:  {"label": "mäßig",      "color": "#FED300", "emoji": "🟡"},
+    5:  {"label": "mäßig",      "color": "#F7AF00", "emoji": "🟡"},
+    6:  {"label": "hoch",       "color": "#EF8300", "emoji": "🟠"},
+    7:  {"label": "hoch",       "color": "#EA6003", "emoji": "🟠"},
+    8:  {"label": "sehr hoch",  "color": "#D90017", "emoji": "🔴"},
+    9:  {"label": "sehr hoch",  "color": "#FF009A", "emoji": "🔴"},
+    10: {"label": "sehr hoch",  "color": "#B64BFF", "emoji": "🔴"},
+    11: {"label": "extrem",     "color": "#9A8DFF", "emoji": "🟣"},
+}
 
+def uv_meta(val, key):
+    if val is None:
+        return {"label": "–", "color": "#cccccc", "emoji": "–"}[key]
+    return UV_META.get(min(val, 11), UV_META[11])[key]
+
+def uv_label(val):
+    return uv_meta(val, "label")
 
 def uv_color(val):
-    if val is None:
-        return "#ccc"
-    if val <= 2:
-        return "#5DCAA5"
-    if val <= 5:
-        return "#EF9F27"
-    if val <= 7:
-        return "#F0997B"
-    if val <= 9:
-        return "#E24B4A"
-    return "#A32D2D"
+    return uv_meta(val, "color")
 
 
 def fetch_dwd():
@@ -177,11 +175,8 @@ def write_readme(results, forecast_day, last_update):
     def badge(val):
         if val is None:
             return "–"
-        color = uv_color(val).lstrip("#")
-        # GitHub README unterstützt kein inline-HTML in Tabellen zuverlässig,
-        # daher wird der Wert als Text mit Emoji-Ampel dargestellt
-        dot = "🟢" if val <= 2 else "🟡" if val <= 5 else "🟠" if val <= 7 else "🔴"
-        return f"{dot} {val}"
+        emoji = uv_meta(val, "emoji")
+        return f"{emoji} {val}"
 
     rows = "\n".join(
         f"| {r['kreis']} | {r['station']} | {badge(r['today'])} | {badge(r['tomorrow'])} | {badge(r['dayafter'])} |"
@@ -203,12 +198,19 @@ und kreisfreien Städte in Nordrhein-Westfalen.
 
 ## Legende
 
-| Symbol | UV-Index | Gefährdung |
-|--------|----------|------------|
-| 🟢 | 1–2 | gering |
-| 🟡 | 3–5 | mäßig |
-| 🟠 | 6–7 | hoch |
-| 🔴 | 8–10 | sehr hoch / extrem |
+| UV-Index | Gefährdung | Farbe |
+|:---:|---|---|
+| 🟢 1 | gering | ![#339C23](https://placehold.co/12x12/339C23/339C23.png) |
+| 🟢 2 | gering | ![#9CC401](https://placehold.co/12x12/9CC401/9CC401.png) |
+| 🟡 3 | mäßig | ![#FFF200](https://placehold.co/12x12/FFF200/FFF200.png) |
+| 🟡 4 | mäßig | ![#FED300](https://placehold.co/12x12/FED300/FED300.png) |
+| 🟡 5 | mäßig | ![#F7AF00](https://placehold.co/12x12/F7AF00/F7AF00.png) |
+| 🟠 6 | hoch | ![#EF8300](https://placehold.co/12x12/EF8300/EF8300.png) |
+| 🟠 7 | hoch | ![#EA6003](https://placehold.co/12x12/EA6003/EA6003.png) |
+| 🔴 8 | sehr hoch | ![#D90017](https://placehold.co/12x12/D90017/D90017.png) |
+| 🔴 9 | sehr hoch | ![#FF009A](https://placehold.co/12x12/FF009A/FF009A.png) |
+| 🔴 10 | sehr hoch | ![#B64BFF](https://placehold.co/12x12/B64BFF/B64BFF.png) |
+| 🟣 11+ | extrem | ![#9A8DFF](https://placehold.co/12x12/9A8DFF/9A8DFF.png) |
 
 ## UV-Index nach Landkreis
 
