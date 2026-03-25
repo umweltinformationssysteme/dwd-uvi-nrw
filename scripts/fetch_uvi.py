@@ -95,22 +95,23 @@ def nearest_station(district, uv_lookup):
 
 
 UV_META = {
-    1:  {"label": "gering",     "color": "#339C23", "emoji": "🟢"},
-    2:  {"label": "gering",     "color": "#9CC401", "emoji": "🟢"},
-    3:  {"label": "mäßig",      "color": "#FFF200", "emoji": "🟡"},
-    4:  {"label": "mäßig",      "color": "#FED300", "emoji": "🟡"},
-    5:  {"label": "mäßig",      "color": "#F7AF00", "emoji": "🟡"},
-    6:  {"label": "hoch",       "color": "#EF8300", "emoji": "🟠"},
-    7:  {"label": "hoch",       "color": "#EA6003", "emoji": "🟠"},
-    8:  {"label": "sehr hoch",  "color": "#D90017", "emoji": "🔴"},
-    9:  {"label": "sehr hoch",  "color": "#FF009A", "emoji": "🔴"},
-    10: {"label": "sehr hoch",  "color": "#B64BFF", "emoji": "🔴"},
-    11: {"label": "extrem",     "color": "#9A8DFF", "emoji": "🟣"},
+    1:  {"label": "low",       "color": "339C23"},
+    2:  {"label": "low",       "color": "9CC401"},
+    3:  {"label": "moderate",  "color": "FFF200"},
+    4:  {"label": "moderate",  "color": "FED300"},
+    5:  {"label": "moderate",  "color": "F7AF00"},
+    6:  {"label": "high",      "color": "EF8300"},
+    7:  {"label": "high",      "color": "EA6003"},
+    8:  {"label": "very high", "color": "D90017"},
+    9:  {"label": "very high", "color": "FF009A"},
+    10: {"label": "very high", "color": "B64BFF"},
+    11: {"label": "extreme",   "color": "9A8DFF"},
 }
 
 def uv_meta(val, key):
+    fallback = {"label": "–", "color": "cccccc"}
     if val is None:
-        return {"label": "–", "color": "#cccccc", "emoji": "–"}[key]
+        return fallback[key]
     return UV_META.get(min(val, 11), UV_META[11])[key]
 
 def uv_label(val):
@@ -168,6 +169,8 @@ def date_label(forecast_day, offset):
 
 
 def write_readme(results, forecast_day, last_update):
+    import re
+
     day0 = date_label(forecast_day, 0)
     day1 = date_label(forecast_day, 1)
     day2 = date_label(forecast_day, 2)
@@ -175,56 +178,35 @@ def write_readme(results, forecast_day, last_update):
     def badge(val):
         if val is None:
             return "–"
-        emoji = uv_meta(val, "emoji")
-        return f"{emoji} {val}"
+        color = uv_color(val)
+        label = uv_label(val)
+        return f"![{label}](https://placehold.co/18x18/{color}/{color}.png) {val}"
 
     rows = "\n".join(
         f"| {r['kreis']} | {r['station']} | {badge(r['today'])} | {badge(r['tomorrow'])} | {badge(r['dayafter'])} |"
         for r in sorted(results, key=lambda x: x["kreis"])
     )
 
-    readme = f"""# UV-Gefahrenindex NRW
+    table_block = (
+        f"<!-- UV-TABLE-START -->\n"
+        f"**Stand:** {last_update.replace('T', ' ')[:16]} Uhr &nbsp;|&nbsp; "
+        f"**Generiert:** {datetime.utcnow().strftime('%d.%m.%Y %H:%M')} UTC\n\n"
+        f"| Landkreis / Stadt | DWD-Station | Heute ({day0}) | Morgen ({day1}) | Übermorgen ({day2}) |\n"
+        f"|---|---|:---:|:---:|:---:|\n"
+        f"{rows}\n"
+        f"<!-- UV-TABLE-END -->"
+    )
 
-Automatisch aktualisierte Übersicht des UV-Gefahrenindex für alle 53 Landkreise
-und kreisfreien Städte in Nordrhein-Westfalen.
-
-**Quelle:** [DWD Open Data](https://opendata.dwd.de/climate_environment/health/alerts/)  
-**Stand:** {last_update.replace("T", " ").replace(":00", "", 1)} Uhr  
-**Prognose ab:** {forecast_day}  
-**Zuletzt generiert:** {datetime.utcnow().strftime("%d.%m.%Y %H:%M")} UTC
-
-> Die Zuordnung erfolgt über die jeweils nächste DWD-Messstation.
-> JSON-Daten: [`data/uvi_nrw.json`](data/uvi_nrw.json)
-
-## Legende
-
-| UV-Index | Gefährdung | Farbe |
-|:---:|---|---|
-| 🟢 1 | gering | ![#339C23](https://placehold.co/12x12/339C23/339C23.png) |
-| 🟢 2 | gering | ![#9CC401](https://placehold.co/12x12/9CC401/9CC401.png) |
-| 🟡 3 | mäßig | ![#FFF200](https://placehold.co/12x12/FFF200/FFF200.png) |
-| 🟡 4 | mäßig | ![#FED300](https://placehold.co/12x12/FED300/FED300.png) |
-| 🟡 5 | mäßig | ![#F7AF00](https://placehold.co/12x12/F7AF00/F7AF00.png) |
-| 🟠 6 | hoch | ![#EF8300](https://placehold.co/12x12/EF8300/EF8300.png) |
-| 🟠 7 | hoch | ![#EA6003](https://placehold.co/12x12/EA6003/EA6003.png) |
-| 🔴 8 | sehr hoch | ![#D90017](https://placehold.co/12x12/D90017/D90017.png) |
-| 🔴 9 | sehr hoch | ![#FF009A](https://placehold.co/12x12/FF009A/FF009A.png) |
-| 🔴 10 | sehr hoch | ![#B64BFF](https://placehold.co/12x12/B64BFF/B64BFF.png) |
-| 🟣 11+ | extrem | ![#9A8DFF](https://placehold.co/12x12/9A8DFF/9A8DFF.png) |
-
-## UV-Index nach Landkreis
-
-| Landkreis / Stadt | DWD-Station | Heute ({day0}) | Morgen ({day1}) | Übermorgen ({day2}) |
-|---|---|:---:|:---:|:---:|
-{rows}
-
----
-*Dieses Repository wird täglich automatisch durch einen [GitHub Actions Workflow](.github/workflows/update.yml) aktualisiert.*
-"""
-
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(readme)
-    print("✓ README.md geschrieben")
+    readme_path = Path("README.md")
+    content = readme_path.read_text(encoding="utf-8")
+    content = re.sub(
+        r"<!-- UV-TABLE-START -->.*?<!-- UV-TABLE-END -->",
+        table_block,
+        content,
+        flags=re.DOTALL,
+    )
+    readme_path.write_text(content, encoding="utf-8")
+    print("✓ README.md Tabelle aktualisiert")
 
 
 if __name__ == "__main__":
