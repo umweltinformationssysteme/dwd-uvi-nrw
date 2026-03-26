@@ -57,7 +57,7 @@ Each row in the table below shows a colour swatch alongside the numeric UV value
 ## UV index by district
 
 <!-- UV-TABLE-START -->
-**Updated:** 2026-03-26 07:30 UTC &nbsp;|&nbsp; **Generated:** 2026-03-26 09:19 UTC
+**Updated:** 2026-03-26 07:30 UTC &nbsp;|&nbsp; **Generated:** 2026-03-26 12:17 UTC
 
 | District / City | DWD Station | Today (Thu 26.03.) | Tomorrow (Fri 27.03.) | Day after (Sat 28.03.) |
 |---|---|:---:|:---:|:---:|
