@@ -1,4 +1,4 @@
-name: Update NRW UV-Index
+name: Update UVI NRW
 
 on:
   schedule:
