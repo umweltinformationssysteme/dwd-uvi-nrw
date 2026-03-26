@@ -57,9 +57,9 @@ Each row in the table below shows a colour swatch alongside the numeric UV value
 ## UV index by district
 
 <!-- UV-TABLE-START -->
-**Stand:** 2026-03-26 07:30 Uhr &nbsp;|&nbsp; **Generiert:** 26.03.2026 08:56 UTC
+**Updated:** 2026-03-26 07:30 UTC &nbsp;|&nbsp; **Generated:** 2026-03-26 09:17 UTC
 
-| Landkreis / Stadt | DWD-Station | Heute (Thu 26.03.) | Morgen (Fri 27.03.) | Übermorgen (Sat 28.03.) |
+| District / City | DWD Station | Today (Thu 26.03.) | Tomorrow (Fri 27.03.) | Day after (Sat 28.03.) |
 |---|---|:---:|:---:|:---:|
 | Aachen (Stadt) | Düsseldorf | ![low](https://placehold.co/18x18/9CC401/9CC401.png) 2 | ![moderate](https://placehold.co/18x18/FFF200/FFF200.png) 3 | ![moderate](https://placehold.co/18x18/FFF200/FFF200.png) 3 |
 | Bielefeld | Osnabrück | ![low](https://placehold.co/18x18/9CC401/9CC401.png) 2 | ![moderate](https://placehold.co/18x18/FFF200/FFF200.png) 3 | ![moderate](https://placehold.co/18x18/FFF200/FFF200.png) 3 |
