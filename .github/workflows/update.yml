@@ -1,39 +1,36 @@
-name: Update UVI NRW
+name: UV-Index NRW aktualisieren
 
 on:
   schedule:
-    - cron: "0 9 * * *"         # daily at 09:00 UTC (= 10:00 / 11:00 CET/CEST)
-  workflow_dispatch:            # manual trigger via GitHub UI possible at any time
+    - cron: "30 8 * * *"
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write           # Allows the workflow to commit files to the repo
+      contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5   # ← Node 24 compatible
+      - name: Repository auschecken
+        uses: actions/checkout@v5        # ← v4 → v5 (Node 24)
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Python einrichten
+        uses: actions/setup-python@v5   # ← bleibt v5, bereits Node 24
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
+      - name: Abhängigkeiten installieren
         run: pip install -r requirements.txt
 
-      # Ensure the path to your script is correct
-      - name: Run script
+      - name: Skript ausführen
         run: python scripts/fetch_uvi.py
 
-      - name: Commit and push changes
+      - name: Änderungen committen und pushen
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md data/uvi_nrw.json
-          # Only commit if changes exist
-          git diff --cached --quiet || \
-            git commit -m "chore: update UV-Index $(date -u +'%Y-%m-%d')"
+          git diff --cached --quiet || git commit -m "chore: UV-Index aktualisiert $(date -u +'%Y-%m-%d')"
           git push
