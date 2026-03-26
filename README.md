@@ -126,9 +126,6 @@ When reusing the data from this repository, please include the following attribu
 
 > Datenbasis: Deutscher Wetterdienst, own calculations
 
-The code in this repository (scripts, workflow) is released under the
-[MIT Licence](LICENSE).
-
 ---
 
 *This repository is updated automatically every day by a
