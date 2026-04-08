@@ -1,22 +1,22 @@
 {
   "source": "Deutscher Wetterdienst – Open Data",
-  "forecast_day": "2026-04-07",
-  "last_update": "2026-04-07T07:30:00",
-  "generated_at": "2026-04-07T10:08:30.175109Z",
+  "forecast_day": "2026-04-08",
+  "last_update": "2026-04-08T07:30:00",
+  "generated_at": "2026-04-08T10:09:17.992570Z",
   "data": [
     {
       "district": "Aachen (Stadt)",
       "station": "Düsseldorf",
       "station_km": 69,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
       "district": "Bielefeld",
       "station": "Osnabrück",
       "station_km": 44,
-      "today": 4,
+      "today": 3,
       "tomorrow": 3,
       "dayafter": 3
     },
@@ -25,7 +25,7 @@
       "station": "Düsseldorf",
       "station_km": 42,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -34,14 +34,14 @@
       "station_km": 0,
       "today": 4,
       "tomorrow": 4,
-      "dayafter": 4
+      "dayafter": 3
     },
     {
       "district": "Borken",
       "station": "Düsseldorf",
       "station_km": 70,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -49,14 +49,14 @@
       "station": "Düsseldorf",
       "station_km": 35,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
       "district": "Coesfeld",
       "station": "Osnabrück",
       "station_km": 71,
-      "today": 4,
+      "today": 3,
       "tomorrow": 3,
       "dayafter": 3
     },
@@ -65,7 +65,7 @@
       "station": "Düsseldorf",
       "station_km": 58,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -73,7 +73,7 @@
       "station": "Düsseldorf",
       "station_km": 24,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -82,14 +82,14 @@
       "station_km": 43,
       "today": 4,
       "tomorrow": 4,
-      "dayafter": 4
+      "dayafter": 3
     },
     {
       "district": "Düsseldorf (Stadt)",
       "station": "Düsseldorf",
       "station_km": 0,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -97,7 +97,7 @@
       "station": "Düsseldorf",
       "station_km": 40,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -105,7 +105,7 @@
       "station": "Düsseldorf",
       "station_km": 31,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -114,21 +114,21 @@
       "station_km": 24,
       "today": 4,
       "tomorrow": 4,
-      "dayafter": 4
+      "dayafter": 3
     },
     {
       "district": "Gelsenkirchen",
       "station": "Düsseldorf",
       "station_km": 39,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
       "district": "Gütersloh",
       "station": "Osnabrück",
       "station_km": 47,
-      "today": 4,
+      "today": 3,
       "tomorrow": 3,
       "dayafter": 3
     },
@@ -137,14 +137,14 @@
       "station": "Düsseldorf",
       "station_km": 51,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
       "district": "Hamm",
       "station": "Osnabrück",
       "station_km": 69,
-      "today": 4,
+      "today": 3,
       "tomorrow": 3,
       "dayafter": 3
     },
@@ -153,14 +153,14 @@
       "station": "Düsseldorf",
       "station_km": 51,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
       "district": "Herford",
       "station": "Osnabrück",
       "station_km": 46,
-      "today": 4,
+      "today": 3,
       "tomorrow": 3,
       "dayafter": 3
     },
@@ -169,7 +169,7 @@
       "station": "Düsseldorf",
       "station_km": 47,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -177,7 +177,7 @@
       "station": "Kahler Asten",
       "station_km": 15,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -185,7 +185,7 @@
       "station": "Kassel",
       "station_km": 53,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -193,7 +193,7 @@
       "station": "Düsseldorf",
       "station_km": 77,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -202,14 +202,14 @@
       "station_km": 25,
       "today": 4,
       "tomorrow": 4,
-      "dayafter": 4
+      "dayafter": 3
     },
     {
       "district": "Krefeld",
       "station": "Düsseldorf",
       "station_km": 18,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -217,7 +217,7 @@
       "station": "Düsseldorf",
       "station_km": 25,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -225,7 +225,7 @@
       "station": "Kassel",
       "station_km": 75,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -233,7 +233,7 @@
       "station": "Kahler Asten",
       "station_km": 55,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -241,7 +241,7 @@
       "station": "Düsseldorf",
       "station_km": 14,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -249,7 +249,7 @@
       "station": "Hannover",
       "station_km": 56,
       "today": 3,
-      "tomorrow": 3,
+      "tomorrow": 2,
       "dayafter": 3
     },
     {
@@ -257,7 +257,7 @@
       "station": "Düsseldorf",
       "station_km": 24,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -265,14 +265,14 @@
       "station": "Düsseldorf",
       "station_km": 24,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
       "district": "Münster",
       "station": "Osnabrück",
       "station_km": 46,
-      "today": 4,
+      "today": 3,
       "tomorrow": 3,
       "dayafter": 3
     },
@@ -282,14 +282,14 @@
       "station_km": 50,
       "today": 4,
       "tomorrow": 4,
-      "dayafter": 4
+      "dayafter": 3
     },
     {
       "district": "Oberhausen",
       "station": "Düsseldorf",
       "station_km": 28,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -297,7 +297,7 @@
       "station": "Kahler Asten",
       "station_km": 48,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -305,7 +305,7 @@
       "station": "Kahler Asten",
       "station_km": 63,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -313,7 +313,7 @@
       "station": "Düsseldorf",
       "station_km": 53,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -321,7 +321,7 @@
       "station": "Düsseldorf",
       "station_km": 29,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -329,7 +329,7 @@
       "station": "Düsseldorf",
       "station_km": 22,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -337,7 +337,7 @@
       "station": "Düsseldorf",
       "station_km": 6,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -346,7 +346,7 @@
       "station_km": 32,
       "today": 4,
       "tomorrow": 4,
-      "dayafter": 4
+      "dayafter": 3
     },
     {
       "district": "Rhein-Sieg-Kreis",
@@ -354,14 +354,14 @@
       "station_km": 16,
       "today": 4,
       "tomorrow": 4,
-      "dayafter": 4
+      "dayafter": 3
     },
     {
       "district": "Siegen-Wittgenstein",
       "station": "Kahler Asten",
       "station_km": 47,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -369,7 +369,7 @@
       "station": "Kahler Asten",
       "station_km": 51,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -377,14 +377,14 @@
       "station": "Düsseldorf",
       "station_km": 22,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
       "district": "Steinfurt",
       "station": "Osnabrück",
       "station_km": 51,
-      "today": 4,
+      "today": 3,
       "tomorrow": 3,
       "dayafter": 3
     },
@@ -393,7 +393,7 @@
       "station": "Kahler Asten",
       "station_km": 68,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -401,14 +401,14 @@
       "station": "Düsseldorf",
       "station_km": 27,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
       "district": "Warendorf",
       "station": "Osnabrück",
       "station_km": 36,
-      "today": 4,
+      "today": 3,
       "tomorrow": 3,
       "dayafter": 3
     },
@@ -417,7 +417,7 @@
       "station": "Düsseldorf",
       "station_km": 50,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     },
     {
@@ -425,7 +425,7 @@
       "station": "Düsseldorf",
       "station_km": 26,
       "today": 4,
-      "tomorrow": 4,
+      "tomorrow": 3,
       "dayafter": 3
     }
   ]
