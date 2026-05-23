@@ -57,63 +57,63 @@ Each row in the table below shows a colour swatch alongside the numeric UV value
 ## UV index by district
 
 <!-- UV-TABLE-START -->
-**Updated:** 2026-05-22 07:30 UTC &nbsp;|&nbsp; **Generated:** 2026-05-22 11:46 UTC
+**Updated:** 2026-05-23 07:30 UTC &nbsp;|&nbsp; **Generated:** 2026-05-23 10:26 UTC
 
-| District / City | DWD Station | Today (Fri 22.05.) | Tomorrow (Sat 23.05.) | Day after (Sun 24.05.) |
+| District / City | DWD Station | Today (Sat 23.05.) | Tomorrow (Sun 24.05.) | Day after (Mon 25.05.) |
 |---|---|:---:|:---:|:---:|
-| Aachen (Stadt) | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Bielefeld | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Bochum | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Bonn (Stadt) | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Borken | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Bottrop | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Coesfeld | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Dortmund | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Duisburg | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Düren | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Düsseldorf (Stadt) | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Ennepe-Ruhr-Kreis | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Essen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Euskirchen | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Gelsenkirchen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Gütersloh | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Hagen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Hamm | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Heinsberg | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Herford | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Herne | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Hochsauerlandkreis | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
-| Höxter | Kassel | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Kleve | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Krefeld | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Köln (Stadt) | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Leverkusen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Lippe | Kassel | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Mettmann | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
+| Aachen (Stadt) | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Bielefeld | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Bochum | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Bonn (Stadt) | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Borken | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Bottrop | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Coesfeld | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Dortmund | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Duisburg | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Düren | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Düsseldorf (Stadt) | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Ennepe-Ruhr-Kreis | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Essen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Euskirchen | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Gelsenkirchen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Gütersloh | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Hagen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Hamm | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Heinsberg | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Herford | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Herne | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Hochsauerlandkreis | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Höxter | Kassel | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Kleve | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Krefeld | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Köln (Stadt) | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Leverkusen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Lippe | Kassel | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Mettmann | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
 | Minden-Lübbecke | Hannover | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
-| Märkischer Kreis | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
-| Mönchengladbach | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Mülheim an der Ruhr | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Münster | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Oberbergischer Kreis | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Oberhausen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Olpe | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
-| Paderborn | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
-| Recklinghausen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Remscheid | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Rhein-Erft-Kreis | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Rhein-Kreis Neuss | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Rhein-Sieg-Kreis | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Rheinisch-Bergischer Kreis | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Siegen-Wittgenstein | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
-| Soest | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
-| Solingen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Steinfurt | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Unna | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
-| Viersen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Warendorf | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Wesel | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
-| Wuppertal | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 |
+| Märkischer Kreis | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Mönchengladbach | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Mülheim an der Ruhr | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Münster | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Oberbergischer Kreis | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Oberhausen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Olpe | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Paderborn | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Recklinghausen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Remscheid | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Rhein-Erft-Kreis | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Rhein-Kreis Neuss | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Rhein-Sieg-Kreis | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Rheinisch-Bergischer Kreis | Bonn | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Siegen-Wittgenstein | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Soest | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Solingen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Steinfurt | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Unna | Kahler Asten | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Viersen | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Warendorf | Osnabrück | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Wesel | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
+| Wuppertal | Düsseldorf | ![high](https://placehold.co/18x18/EF8300/EF8300.png) 6 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 | ![high](https://placehold.co/18x18/EA6003/EA6003.png) 7 |
 <!-- UV-TABLE-END -->
 
 ## Licence & attribution
