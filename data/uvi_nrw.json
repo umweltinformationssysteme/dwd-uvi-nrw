@@ -1,8 +1,8 @@
 {
   "source": "Deutscher Wetterdienst – Open Data",
-  "forecast_day": "2026-05-24",
-  "last_update": "2026-05-24T07:30:00",
-  "generated_at": "2026-05-24T10:41:47.556247Z",
+  "forecast_day": "2026-05-25",
+  "last_update": "2026-05-25T07:30:00",
+  "generated_at": "2026-05-25T12:32:33.413124Z",
   "data": [
     {
       "district": "Aachen (Stadt)",
@@ -34,7 +34,7 @@
       "station_km": 0,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 6
     },
     {
       "district": "Borken",
@@ -82,7 +82,7 @@
       "station_km": 43,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 6
     },
     {
       "district": "Düsseldorf (Stadt)",
@@ -114,7 +114,7 @@
       "station_km": 24,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 6
     },
     {
       "district": "Gelsenkirchen",
@@ -176,8 +176,8 @@
       "district": "Hochsauerlandkreis",
       "station": "Kahler Asten",
       "station_km": 15,
-      "today": 7,
-      "tomorrow": 7,
+      "today": 8,
+      "tomorrow": 8,
       "dayafter": 7
     },
     {
@@ -202,7 +202,7 @@
       "station_km": 25,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 6
     },
     {
       "district": "Krefeld",
@@ -232,8 +232,8 @@
       "district": "Märkischer Kreis",
       "station": "Kahler Asten",
       "station_km": 55,
-      "today": 7,
-      "tomorrow": 7,
+      "today": 8,
+      "tomorrow": 8,
       "dayafter": 7
     },
     {
@@ -282,7 +282,7 @@
       "station_km": 50,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 6
     },
     {
       "district": "Oberhausen",
@@ -296,16 +296,16 @@
       "district": "Olpe",
       "station": "Kahler Asten",
       "station_km": 48,
-      "today": 7,
-      "tomorrow": 7,
+      "today": 8,
+      "tomorrow": 8,
       "dayafter": 7
     },
     {
       "district": "Paderborn",
       "station": "Kahler Asten",
       "station_km": 63,
-      "today": 7,
-      "tomorrow": 7,
+      "today": 8,
+      "tomorrow": 8,
       "dayafter": 7
     },
     {
@@ -346,7 +346,7 @@
       "station_km": 32,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 6
     },
     {
       "district": "Rhein-Sieg-Kreis",
@@ -354,22 +354,22 @@
       "station_km": 16,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 6
     },
     {
       "district": "Siegen-Wittgenstein",
       "station": "Kahler Asten",
       "station_km": 47,
-      "today": 7,
-      "tomorrow": 7,
+      "today": 8,
+      "tomorrow": 8,
       "dayafter": 7
     },
     {
       "district": "Soest",
       "station": "Kahler Asten",
       "station_km": 51,
-      "today": 7,
-      "tomorrow": 7,
+      "today": 8,
+      "tomorrow": 8,
       "dayafter": 7
     },
     {
@@ -392,8 +392,8 @@
       "district": "Unna",
       "station": "Kahler Asten",
       "station_km": 68,
-      "today": 7,
-      "tomorrow": 7,
+      "today": 8,
+      "tomorrow": 8,
       "dayafter": 7
     },
     {
