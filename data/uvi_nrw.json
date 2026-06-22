@@ -1,8 +1,8 @@
 {
   "source": "Deutscher Wetterdienst – Open Data",
-  "forecast_day": "2026-06-21",
-  "last_update": "2026-06-21T07:30:00",
-  "generated_at": "2026-06-21T11:46:05.995244Z",
+  "forecast_day": "2026-06-22",
+  "last_update": "2026-06-22T07:30:00",
+  "generated_at": "2026-06-22T14:40:35.919023Z",
   "data": [
     {
       "district": "Aachen (Stadt)",
@@ -10,15 +10,15 @@
       "station_km": 69,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Bielefeld",
       "station": "Osnabrück",
       "station_km": 44,
-      "today": 5,
-      "tomorrow": 6,
-      "dayafter": 7
+      "today": 7,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Bochum",
@@ -26,15 +26,15 @@
       "station_km": 42,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Bonn (Stadt)",
       "station": "Bonn",
       "station_km": 0,
-      "today": 6,
+      "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Borken",
@@ -42,7 +42,7 @@
       "station_km": 70,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Bottrop",
@@ -50,15 +50,15 @@
       "station_km": 35,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Coesfeld",
       "station": "Osnabrück",
       "station_km": 71,
-      "today": 5,
-      "tomorrow": 6,
-      "dayafter": 7
+      "today": 7,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Dortmund",
@@ -66,7 +66,7 @@
       "station_km": 58,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Duisburg",
@@ -74,15 +74,15 @@
       "station_km": 24,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Düren",
       "station": "Bonn",
       "station_km": 43,
-      "today": 6,
+      "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Düsseldorf (Stadt)",
@@ -90,7 +90,7 @@
       "station_km": 0,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Ennepe-Ruhr-Kreis",
@@ -98,7 +98,7 @@
       "station_km": 40,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Essen",
@@ -106,15 +106,15 @@
       "station_km": 31,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Euskirchen",
       "station": "Bonn",
       "station_km": 24,
-      "today": 6,
+      "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Gelsenkirchen",
@@ -122,15 +122,15 @@
       "station_km": 39,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Gütersloh",
       "station": "Osnabrück",
       "station_km": 47,
-      "today": 5,
-      "tomorrow": 6,
-      "dayafter": 7
+      "today": 7,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Hagen",
@@ -138,15 +138,15 @@
       "station_km": 51,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Hamm",
       "station": "Osnabrück",
       "station_km": 69,
-      "today": 5,
-      "tomorrow": 6,
-      "dayafter": 7
+      "today": 7,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Heinsberg",
@@ -154,15 +154,15 @@
       "station_km": 51,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Herford",
       "station": "Osnabrück",
       "station_km": 46,
-      "today": 5,
-      "tomorrow": 6,
-      "dayafter": 7
+      "today": 7,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Herne",
@@ -170,23 +170,23 @@
       "station_km": 47,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Hochsauerlandkreis",
       "station": "Kahler Asten",
       "station_km": 15,
-      "today": 5,
-      "tomorrow": 5,
-      "dayafter": 7
+      "today": 6,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Höxter",
       "station": "Kassel",
       "station_km": 53,
-      "today": 5,
-      "tomorrow": 6,
-      "dayafter": 6
+      "today": 6,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Kleve",
@@ -194,15 +194,15 @@
       "station_km": 77,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Köln (Stadt)",
       "station": "Bonn",
       "station_km": 25,
-      "today": 6,
+      "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Krefeld",
@@ -210,7 +210,7 @@
       "station_km": 18,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Leverkusen",
@@ -218,23 +218,23 @@
       "station_km": 25,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Lippe",
       "station": "Kassel",
       "station_km": 75,
-      "today": 5,
-      "tomorrow": 6,
-      "dayafter": 6
+      "today": 6,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Märkischer Kreis",
       "station": "Kahler Asten",
       "station_km": 55,
-      "today": 5,
-      "tomorrow": 5,
-      "dayafter": 7
+      "today": 6,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Mettmann",
@@ -242,14 +242,14 @@
       "station_km": 14,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Minden-Lübbecke",
       "station": "Hannover",
       "station_km": 56,
       "today": 6,
-      "tomorrow": 4,
+      "tomorrow": 7,
       "dayafter": 7
     },
     {
@@ -258,7 +258,7 @@
       "station_km": 24,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Mülheim an der Ruhr",
@@ -266,23 +266,23 @@
       "station_km": 24,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Münster",
       "station": "Osnabrück",
       "station_km": 46,
-      "today": 5,
-      "tomorrow": 6,
-      "dayafter": 7
+      "today": 7,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Oberbergischer Kreis",
       "station": "Bonn",
       "station_km": 50,
-      "today": 6,
+      "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Oberhausen",
@@ -290,23 +290,23 @@
       "station_km": 28,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Olpe",
       "station": "Kahler Asten",
       "station_km": 48,
-      "today": 5,
-      "tomorrow": 5,
-      "dayafter": 7
+      "today": 6,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Paderborn",
       "station": "Kahler Asten",
       "station_km": 63,
-      "today": 5,
-      "tomorrow": 5,
-      "dayafter": 7
+      "today": 6,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Recklinghausen",
@@ -314,7 +314,7 @@
       "station_km": 53,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Remscheid",
@@ -322,7 +322,7 @@
       "station_km": 29,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Rhein-Erft-Kreis",
@@ -330,7 +330,7 @@
       "station_km": 22,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Rhein-Kreis Neuss",
@@ -338,39 +338,39 @@
       "station_km": 6,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Rheinisch-Bergischer Kreis",
       "station": "Bonn",
       "station_km": 32,
-      "today": 6,
+      "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Rhein-Sieg-Kreis",
       "station": "Bonn",
       "station_km": 16,
-      "today": 6,
+      "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Siegen-Wittgenstein",
       "station": "Kahler Asten",
       "station_km": 47,
-      "today": 5,
-      "tomorrow": 5,
-      "dayafter": 7
+      "today": 6,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Soest",
       "station": "Kahler Asten",
       "station_km": 51,
-      "today": 5,
-      "tomorrow": 5,
-      "dayafter": 7
+      "today": 6,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Solingen",
@@ -378,23 +378,23 @@
       "station_km": 22,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Steinfurt",
       "station": "Osnabrück",
       "station_km": 51,
-      "today": 5,
-      "tomorrow": 6,
-      "dayafter": 7
+      "today": 7,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Unna",
       "station": "Kahler Asten",
       "station_km": 68,
-      "today": 5,
-      "tomorrow": 5,
-      "dayafter": 7
+      "today": 6,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Viersen",
@@ -402,15 +402,15 @@
       "station_km": 27,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Warendorf",
       "station": "Osnabrück",
       "station_km": 36,
-      "today": 5,
-      "tomorrow": 6,
-      "dayafter": 7
+      "today": 7,
+      "tomorrow": 7,
+      "dayafter": 8
     },
     {
       "district": "Wesel",
@@ -418,7 +418,7 @@
       "station_km": 50,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     },
     {
       "district": "Wuppertal",
@@ -426,7 +426,7 @@
       "station_km": 26,
       "today": 7,
       "tomorrow": 7,
-      "dayafter": 7
+      "dayafter": 8
     }
   ]
 }
